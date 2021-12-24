@@ -1,0 +1,1 @@
+/* To Test the Scope of a variable */
